@@ -127,11 +127,11 @@ streamlit run chatbot_app.py
 
 ## Features
 
-- ✅ Lightweight Deep Learning Model
-- ✅ Streamlit-based GUI
-- ✅ Interactive chatbot assistant
-- ✅ User-friendly upload and prediction
-- ✅ Suitable for both CT and X-ray images
+-  Lightweight Deep Learning Model
+-  Streamlit-based GUI
+-  Interactive chatbot assistant
+-  User-friendly upload and prediction
+-  Suitable for both CT and X-ray images
 
 ---
 
