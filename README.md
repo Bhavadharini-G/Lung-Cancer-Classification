@@ -1,12 +1,12 @@
 ---
 
-# Lung Cancer Classification and Detection Assistant 🫁
+# Lung Cancer Classification and Detection Assistant 
 
 A deep learning project that detects **Benign**, **Malignant**, and **Normal** lung conditions using **GhostNetV2**, **DKDC blocks**, and **Capsule-like features**, deployed through a **Streamlit web app** and an **interactive chatbot interface**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── data/
@@ -23,7 +23,7 @@ A deep learning project that detects **Benign**, **Malignant**, and **Normal** l
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project aims to assist early lung cancer detection using a lightweight and accurate deep learning model:
 
@@ -37,7 +37,7 @@ This project aims to assist early lung cancer detection using a lightweight and 
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - **GhostNetV2** pretrained on ImageNet
 - **DKDC** block after backbone (3x3 and 5x5 convolutions)
@@ -46,7 +46,7 @@ This project aims to assist early lung cancer detection using a lightweight and 
 
 ---
 
-## 🏗️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -112,7 +112,7 @@ streamlit run chatbot_app.py
 
 ---
 
-## 📊 Results
+## Results
 
 - Achieved **high validation accuracy** (>85%) in 10 epochs.
 - The model is **lightweight** and **fast** (~5MB).
@@ -125,7 +125,7 @@ streamlit run chatbot_app.py
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Lightweight Deep Learning Model
 - ✅ Streamlit-based GUI
@@ -135,7 +135,7 @@ streamlit run chatbot_app.py
 
 ---
 
-## 📸 Demo Screenshots
+## Demo Screenshots
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -152,7 +152,7 @@ streamlit run chatbot_app.py
 
 ---
 
-## 🛠️ Future Improvements
+## Future Improvements
 
 - Train on larger medical datasets (e.g., LIDC-IDRI).
 - Add GradCAM visualization for explainable AI.
@@ -161,7 +161,7 @@ streamlit run chatbot_app.py
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 - **Bhavadharini** - [LinkedIn](https://www.linkedin.com/in/bhavadharini-gunasekaran-a070a722b) | [GitHub](https://github.com/Bhavadharini-G)
 - **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
@@ -169,13 +169,13 @@ streamlit run chatbot_app.py
 - **Priyadharshini** - [LinkedIn](https://www.linkedin.com/in/priyadharsini-raghukumar-9365671aa/) | [GitHub]()
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [PyTorch](https://pytorch.org/)
 - [TIMM Library](https://github.com/rwightman/pytorch-image-models)
@@ -183,4 +183,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-# 🌟 If you find this project useful, please give a ⭐ on GitHub!
+# If you find this project useful, please give a on GitHub!
